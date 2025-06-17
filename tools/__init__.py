@@ -1,0 +1,1 @@
+from .custom_tool import get_today_newslink, get_detail_news
