@@ -1,4 +1,4 @@
-# Agent for summarizing key articles from AI-Time using CrewAI
+# Agent for summarizing key articles from AI-Times using CrewAI
 
 ## Overview
 
